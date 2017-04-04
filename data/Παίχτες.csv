@@ -1,0 +1,656 @@
+FirstName,LastName,Position,Club,Nation,Age,Pace,Dribbling,Shooting,Defending,Passing
+Eden, Hazard, LM,CHE, Belgium,25,90,92,82,32,84
+Sergio, Agüero, ST,MCI, Argentina,27,91,91,92,27,81
+Mesut, Özil, CAM,ARS, Germany,27,74,89,80,27,90
+Kevin, De Bruyne, RM,MCI, Belgium,24,80,90,88,45,90
+David Josué, Jimenez Silva, CAM,MCI, Spain,30,73,89,74,32,89
+Alexis, Sánchez, LM,ARS, Chile,27,89,90,88,41,83
+Francesc, Fàbregas i Soler, CM,CHE, Spain,28,68,81,78,64,90
+Wayne, Rooney, ST,MUN, England,30,76,83,88,50,84
+Diego, da Silva Costa, ST,CHE, Spain,27,83,80,86,42,65
+David, De Gea Quintana, GK,MUN, Spain,25,90,91,85,51,86
+Bastian, Schweinsteiger, CM,MUN, Germany,31,52,79,79,76,84
+Thibaut, Courtois, GK,CHE, Belgium,23,84,88,87,46,69
+Petr, Čech, GK,ARS, Czech Republic,33,86,87,88,45,73
+Santiago, Cazorla González, CM,ARS, Spain,31,74,89,82,57,87
+John, Terry, CB,CHE, England,35,34,52,47,87,57
+Yaya, Touré, CM,MCI, Côte d'Ivoire,32,76,79,83,70,81
+Vincent, Kompany, CB,MCI, Belgium,29,69,65,54,86,62
+Hugo, Lloris, GK,TOT, France,29,87,88,83,65,69
+Oscar, dos Santos Emboaba, CAM,CHE, Brazil,24,80,86,80,45,84
+Philippe, Coutinho Correia, CF,LIV, Brazil,23,83,88,79,35,83
+Nicolás, Otamendi, CB,MCI, Argentina,27,76,56,57,88,60
+Laurent, Koscielny, CB,ARS, France,30,80,70,50,88,65
+Christian, Eriksen, LM,TOT, Denmark,23,79,87,84,48,88
+Juan Manuel, Mata García, RM,MUN, Spain,27,71,87,75,27,84
+Nemanja, Matić, CDM,CHE, Serbia,27,67,75,70,82,77
+Daniel, Sturridge, ST,LIV, England,26,90,84,85,27,70
+Raheem, Sterling, LM,MCI, England,21,95,90,82,50,77
+Per, Mertesacker, CB,ARS, Germany,31,31,48,41,88,57
+Joe, Hart, GK,MCI, England,28,85,86,78,59,76
+Leighton, Baines, LB,EVE, England,31,75,77,75,82,81
+Gary, Cahill, CB,CHE, England,30,73,62,58,86,52
+Samir, Nasri, LM,MCI, France,28,81,86,76,38,83
+Radamel Falcao, García Zarate, ST,CHE, Colombia,29,72,79,82,37,64
+Pedro, Rodríguez Ledesma, LW,CHE, Spain,28,82,84,76,37,77
+Willian, Borges da Silva, RM,CHE, Brazil,27,90,87,80,51,80
+Aaron, Ramsey, CDM,ARS, Wales,25,70,82,80,72,81
+Roberto Firmino, Barbosa de Oliveira, ST,LIV, Brazil,24,77,86,80,42,81
+Harry, Kane, ST,TOT, England,22,76,82,86,45,78
+Pablo, Zabaleta, RB,MCI, Argentina,31,73,75,56,85,70
+Asmir, Begović, GK,CHE, Bosnia and Herzegovina,28,83,84,80,52,74
+Jan, Vertonghen, CB,TOT, Belgium,28,71,69,67,83,70
+Morgan, Schneiderlin, CDM,MUN, France,26,64,74,63,80,76
+Olivier, Giroud, ST,ARS, France,29,67,71,82,38,69
+Christian, Benteke, ST,LIV, Belgium,25,77,75,81,33,65
+César, Azpilicueta Tanco, LB,CHE, Spain,26,80,74,56,84,74
+Martin, Škrtel, CB,LIV, Slovakia,31,63,55,45,84,50
+José Miguel, da Rocha Fonte, CB,SOU, Portugal,32,57,65,40,87,55
+Dimitri, Payet, CAM,WHU, France,28,78,84,79,45,83
+Ander, Herrera Agüera, CAM,MUN, Spain,26,76,86,74,55,82
+Jamie, Vardy, ST,LEI, England,29,92,82,81,53,70
+Xherdan, Shaqiri, RM,STK, Switzerland,24,89,89,82,61,83
+Mikel, Arteta Amatriain, CM,ARS, Spain,33,43,78,73,73,82
+Phil, Jagielka, CB,EVE, England,33,67,55,46,83,58
+Martín, Demichelis, CB,MCI, Argentina,35,34,49,40,83,53
+Jesús, Navas González, RM,MCI, Spain,30,89,83,70,28,76
+Theo, Walcott, RM,ARS, England,26,96,81,77,33,74
+Bojan, Krkic Perez, CAM,STK, Spain,25,79,85,73,24,78
+Loïc, Rémy, ST,CHE, France,29,90,74,80,34,68
+Séamus, Coleman, RB,EVE, Republic of Ireland,27,80,78,68,81,72
+Marcos, Rojo, CB,MUN, Argentina,25,72,66,60,81,66
+Memphis, Depay, LW,MUN, Holland,21,90,85,78,29,73
+Ashley, Williams, CB,SWA, Wales,31,70,62,43,82,56
+Ryan, Shawcross, CB,STK, England,28,61,52,45,85,55
+Georginio, Wijnaldum, LM,NEW, Holland,25,83,86,82,57,75
+Romelu, Lukaku, ST,EVE, Belgium,22,83,75,84,35,70
+Tomáš, Rosický, CAM,ARS, Czech Republic,35,72,83,70,43,81
+Tim, Howard, GK,EVE, United States,36,82,82,76,50,77
+Michael, Carrick, CM,MUN, England,34,54,72,68,75,80
+Fernando Luiz, Rosa, CM,MCI, Brazil,30,77,80,74,74,78
+Michel, Vorm, GK,TOT, Holland,32,83,84,75,57,77
+James, Milner, CM,LIV, England,30,68,77,76,69,83
+Gaël, Clichy, LB,MCI, France,30,84,74,43,80,65
+Ashley, Young, LM,MUN, England,30,85,82,74,35,78
+Mathieu, Debuchy, RB,ARS, France,30,75,74,65,80,73
+Gökhan, Inler, CDM,LEI, Switzerland,31,67,74,71,76,78
+Moussa, Dembélé, CM,TOT, Belgium,28,77,82,72,69,75
+Kevin, Mirallas, LM,EVE, Belgium,28,88,83,77,47,77
+Ignacio, Monreal Eraso, LB,ARS, Spain,29,77,75,53,81,72
+Branislav, Ivanović, RB,CHE, Serbia,31,65,61,61,87,64
+Adam, Lallana, CAM,LIV, England,27,72,83,71,47,79
+Ramires, Santos do Nascimen., CDM,CHE, Brazil,28,88,81,69,78,76
+Kieran, Gibbs, LB,ARS, England,26,81,77,57,80,72
+James, McCarthy, CDM,EVE, Republic of Ireland,25,72,76,67,78,76
+Salomón, Rondón, ST,WBA, Venezuela,26,80,74,78,31,56
+Eliaquim, Mangala, CB,MCI, France,24,77,61,41,79,56
+Daley, Blind, CDM,MUN, Holland,25,62,75,55,75,74
+Phil, Jones, CB,MUN, England,23,66,61,56,82,65
+Jermain, Defoe, ST,SUN, England,33,78,82,87,27,63
+Artur, Boruc, GK,BOU, Poland,35,84,85,76,41,62
+Arouna, Koné, LM,EVE, Côte d'Ivoire,32,79,79,80,36,63
+Scott, Dann, CB,CRY, England,28,53,52,40,84,56
+Yohan, Cabaye, CDM,CRY, France,30,67,79,76,74,82
+Erik, Lamela, RM,TOT, Argentina,23,81,85,80,34,80
+Winston, Reid, CB,WHU, New Zealand,27,74,52,54,83,52
+Jordan, Henderson, CM,LIV, England,25,75,77,74,72,83
+Marko, Arnautović, LM,STK, Austria,26,78,82,77,51,80
+Yannick, Bolasie, CAM,CRY, Congo DR,26,89,85,75,31,70
+Ross, Barkley, CAM,EVE, England,22,79,83,77,57,78
+Gerard, Deulofeu Lázaro, RM,EVE, Spain,21,91,87,69,26,72
+Enner, Valencia, ST,WHU, Ecuador,26,86,78,80,52,70
+Shane, Long, ST,SOU, Republic of Ireland,29,86,80,81,40,65
+Heung Min, Son, LM,TOT, Korea Republic,23,87,82,84,26,74
+Kurt, Zouma, CB,CHE, France,21,75,60,60,82,62
+Riyad, Mahrez, RM,LEI, Algeria,24,83,86,80,33,77
+Anthony, Martial, LM,MUN, France,20,87,83,80,27,65
+Gareth, Barry, CDM,EVE, England,34,42,66,65,80,80
+Fabricio, Coloccini, CB,NEW, Argentina,34,66,62,53,79,64
+Emmanuel, Adebayor, ST,TOT, Togo,31,72,76,78,31,68
+Ben, Foster, GK,WBA, England,32,81,84,78,50,73
+Younès, Kaboul, CB,SUN, France,30,67,56,44,79,58
+Bacary, Sagna, RB,MCI, France,32,72,74,53,82,66
+Brad, Guzan, GK,AVL, United States,31,81,82,76,50,66
+Antonio, Valencia, RM,MUN, Ecuador,30,81,80,68,62,77
+Micah, Richards, CB,AVL, England,27,76,66,51,78,61
+Tim, Krul, GK,NEW, Holland,27,81,84,78,50,73
+Cheick, Tioté, CDM,NEW, Côte d'Ivoire,29,72,72,57,79,67
+Lucas, Pezzini Leiva, CDM,LIV, Brazil,29,56,71,40,79,70
+André, Ayew, LM,SWA, Ghana,26,78,81,73,63,75
+Jeremain, Lens, LW,SUN, Holland,28,84,82,76,32,76
+Max, Gradel, LW,BOU, Côte d'Ivoire,28,88,82,74,44,71
+Angelo, Ogbonna, CB,WHU, Italy,27,73,57,40,83,48
+Fernando, Reges, CDM,MCI, Brazil,28,67,68,61,81,68
+Aleksandar, Kolarov, LB,MCI, Serbia,30,68,76,69,81,78
+Danny, Welbeck, ST,ARS, England,25,85,80,76,34,72
+Kyle, Walker, RB,TOT, England,25,90,73,63,77,72
+Chris, Smalling, CB,MUN, England,26,76,61,26,83,55
+Dejan, Lovren, CB,LIV, Croatia,26,56,63,40,80,60
+Alex, Oxlade-Chamberlain, RM,ARS, England,22,89,84,72,42,73
+Dušan, Tadić, LM,SOU, Serbia,27,74,83,69,37,80
+Nacer, Chadli, LM,TOT, Belgium,26,79,79,76,45,76
+Alberto, Moreno Pérez, LWB,LIV, Spain,23,87,79,67,72,70
+Joleon, Lescott, CB,AVL, England,33,53,59,51,81,58
+Steven, Davis, CM,SOU, Northern Ireland,31,72,80,70,67,80
+Alexandre, Song, CDM,WHU, Cameroon,28,70,70,58,77,69
+Steven, Fletcher, ST,SUN, Scotland,28,70,74,81,32,62
+Costel, Pantilimon, GK,SUN, Romania,29,80,81,80,48,68
+Jack, Butland, GK,STK, England,22,81,85,78,51,75
+Jonas, Olsson, CB,WBA, Sweden,32,52,52,56,78,65
+Kolo, Touré, CB,LIV, Côte d'Ivoire,34,68,55,61,79,61
+Robert, Huth, CB,LEI, Germany,31,44,40,54,80,49
+Willy, Caballero, GK,MCI, Argentina,34,80,82,72,49,69
+Łukasz, Fabiański, GK,SWA, Poland,30,77,84,80,50,73
+Adam, Johnson, RM,SUN, England,28,73,83,75,39,77
+Ryan, Bertrand, LB,SOU, England,26,78,75,46,78,69
+Simon, Mignolet, GK,LIV, Belgium,27,82,84,75,55,65
+David, Ospina, GK,ARS, Colombia,27,83,84,71,34,78
+Marouane, Fellaini, CM,MUN, Belgium,28,59,72,72,75,74
+Papiss Demba, Cissé, ST,NEW, Senegal,30,74,74,80,25,68
+Youssouf, Mulumbu, CDM,MNOR, Congo DR,29,66,72,63,77,68
+Federico, Fazio, CB,TOT, Argentina,28,32,53,42,80,55
+Andy, Carroll, ST,WHU, England,27,71,68,79,50,62
+Moussa, Sissoko, CAM,NEW, France,26,81,79,74,72,76
+Claudio, Yacob, CDM,WBA, Argentina,28,56,69,59,79,66
+Gylfi, Sigurðsson, CAM,SWA, Iceland,26,67,75,80,52,80
+Yann, M'Vila, CDM,SUN, France,25,76,73,60,74,73
+Mame, Diouf, ST,STK, Senegal,28,90,68,77,42,56
+Francis, Coquelin, CDM,ARS, France,24,70,76,54,75,70
+Shinji, Okazaki, ST,LEI, Japan,29,76,78,77,43,66
+Adrián, San Miguel Castillo, GK,WHU, Spain,29,78,85,76,46,71
+Jordy, Clasie, CDM,SOU, Holland,24,66,76,51,66,80
+Cédric Ricardo, Alves Soares, RB,SOU, Portugal,24,78,76,68,76,72
+Gabriel, Armando de Abreu, CB,ARS, Brazil,25,70,64,54,82,65
+Gastón, Ramírez, CAM,SOU, Uruguay,25,74,81,75,41,77
+Federico, Fernández, CB,SWA, Argentina,26,55,50,28,80,51
+Sadio, Mané, CF,SOU, Senegal,23,91,81,73,35,70
+Abdul Rahman, Baba, LB,CHE, Ghana,21,86,76,50,75,67
+James, Collins, CB,WHU, Wales,32,43,47,51,80,56
+Steven, Naismith, LM,EVE, Scotland,29,78,80,78,52,69
+Jonny, Evans, CB,WBA, Northern Ireland,28,70,52,32,80,57
+Papy Mison, Djilobodji, CB,CHE, Senegal,27,72,52,48,78,54
+Víctor, Ibarbo, RW,WAT, Colombia,25,92,82,71,37,69
+Aleksandar, Mitrović, ST,NEW, Serbia,21,65,70,82,25,60
+Ramiro, Funes Mori, CB,EVE, Argentina,24,73,66,45,80,60
+Maarten, Stekelenburg, GK,SOU, Holland,33,81,79,75,35,82
+Sylvain, Distin, CB,BOU, France,38,68,54,36,79,56
+Julián, Speroni, GK,CRY, Argentina,36,80,82,72,42,71
+Steven, Pienaar, LM,EVE, South Africa,33,69,82,70,52,79
+Glen, Johnson, RB,STK, England,31,77,75,65,75,71
+Leon, Britton, CM,SWA, England,33,67,78,53,69,77
+Ibrahim, Afellay, LW,STK, Holland,29,77,80,74,41,77
+Bafétimbi, Gomis, ST,SWA, France,30,68,70,80,40,64
+Stéphane, Sessègnon, CAM,WBA, Benin,31,78,82,72,50,75
+Graziano, Pellè, ST,SOU, Italy,30,55,67,77,33,60
+John Obi, Mikel, CDM,CHE, Nigeria,28,59,67,54,78,68
+Danny, Rose, LB,TOT, England,25,82,75,59,75,70
+Lee, Cattermole, CDM,SUN, England,27,68,68,58,77,69
+Jack, Cork, CDM,SWA, England,26,62,73,53,75,69
+Jay, Rodriguez, LM,SOU, England,26,83,77,77,32,69
+José Enrique, Sánchez Díaz, LB,LIV, Spain,30,81,74,53,76,72
+Etienne, Capoue, CDM,WAT, France,27,60,70,62,76,70
+Sung Yueng, Ki, CM,SWA, Korea Republic,27,66,76,74,62,81
+Jose, Holebas, LB,WAT, Greece,31,84,74,70,76,68
+Carlos, Sánchez, CDM,AVL, Colombia,30,67,70,58,73,70
+Ciaran, Clark, CB,AVL, Republic of Ireland,26,65,59,56,79,56
+Fabian, Delph, CM,MCI, England,26,78,82,69,68,74
+Joe, Allen, CM,LIV, Wales,25,67,79,59,66,76
+Siem, de Jong, CAM,NEW, Holland,27,68,74,79,58,73
+Geoff, Cameron, CB,STK, United States,30,73,71,55,78,70
+Jefferson, Montero, LW,SWA, Ecuador,26,89,81,71,29,71
+Daryl, Janmaat, RB,NEW, Holland,26,75,74,63,77,70
+Victor, Wanyama, CDM,SOU, Kenya,24,66,72,66,78,67
+Jonjo, Shelvey, CM,SWA, England,23,66,74,75,62,78
+Tom, Cleverley, CM,EVE, England,26,75,78,69,54,77
+Allan-Roméo, Nyom, RB,WAT, Cameroon,27,81,64,47,78,63
+Steven, Caulker, CB,SOU, England,24,73,61,32,79,56
+Wilfried, Zaha, RW,CRY, England,23,87,83,69,30,66
+John, Stones, CB,EVE, England,21,72,68,36,78,64
+Jores, Okore, CB,AVL, Denmark,23,81,60,41,76,50
+Luke, Shaw, LB,MUN, England,20,82,77,40,77,69
+Kevin, Wimmer, CB,TOT, Austria,23,70,65,27,79,62
+Chancel, Mbemba, CB,NEW, Congo DR,21,82,69,56,78,54
+Anders, Lindegaard, GK,WBA, Denmark,31,82,78,76,47,74
+Aaron, Lennon, RM,EVE, England,28,89,84,64,33,71
+Philipp, Wollscheid, CB,STK, Germany,26,51,41,39,80,51
+Virgil, van Dijk, CB,SOU, Holland,24,67,67,60,77,64
+Héctor, Bellerín Moruno, RB,ARS, Spain,20,95,76,52,76,70
+Peter, Crouch, ST,STK, England,35,53,69,76,32,69
+Wayne, Routledge, LM,SWA, England,31,81,81,66,36,70
+Mark, Noble, CM,WHU, England,28,55,72,65,71,76
+Mauro, Zárate, ST,WHU, Argentina,28,77,83,78,38,70
+Àngel, Rangel Zaragoza, RB,SWA, Spain,33,62,72,59,79,71
+Aiden, McGeady, RM,EVE, Republic of Ireland,29,82,82,68,42,72
+Mathieu, Flamini, CDM,ARS, France,31,67,71,65,77,71
+Steven, Taylor, CB,NEW, England,30,53,48,34,78,52
+Valon, Behrami, CDM,WAT, Switzerland,30,67,71,64,74,72
+Miguel, Pérez Cuesta, ST,SWA, Spain,29,60,69,76,34,69
+Darron, Gibson, CM,EVE, Republic of Ireland,28,59,71,68,74,78
+James, McArthur, CDM,CRY, Scotland,28,65,75,60,72,72
+Fraser, Forster, GK,SOU, England,27,74,82,77,32,74
+Sergio, Romero, GK,MUN, Argentina,28,76,82,67,44,81
+Sebastian, Prödl, CB,WAT, Austria,28,52,40,36,78,48
+Mile, Jedinák, CDM,CRY, Australia,31,55,61,68,78,68
+Jack, Rodwell, CM,SUN, England,24,70,75,72,74,74
+Martin, Olsson, LB,MNOR, Sweden,27,83,73,62,74,68
+Kieran, Trippier, RB,TOT, England,25,79,71,56,75,72
+Joel, Ward, RB,CRY, England,26,76,66,54,79,70
+Franck, Tabanou, LB,SWA, France,27,76,75,71,74,77
+Manuel, Lanzini, CAM,WHU, Argentina,22,82,82,66,22,75
+Pape, Souaré, LB,CRY, Senegal,25,81,73,49,74,72
+Jordan, Ayew, ST,AVL, Ghana,24,77,77,76,30,71
+Jordan, Veretout, CM,AVL, France,22,68,75,73,67,76
+Saido, Berahino, ST,WBA, England,22,83,76,78,27,57
+Joel, Campbell, RM,ARS, Costa Rica,23,88,78,72,38,72
+Florian, Thauvin, RM,NEW, France,23,81,81,71,33,74
+Christian, Atsu, LW,BOU, Ghana,24,92,80,67,32,70
+Ben, Davies, LB,TOT, Wales,22,78,72,50,76,69
+Divock, Origi, ST,LIV, Belgium,20,85,76,74,30,68
+N'Golo, Kanté, CM,LEI, France,24,76,75,66,66,72
+Victor, Moses, LM,WHU, Nigeria,25,82,81,71,38,69
+Nathan, Dyer, RM,LEI, England,28,91,81,74,38,67
+Fabio, Borini, ST,SUN, Italy,24,78,76,74,28,70
+Shay, Given, GK,STK, Republic of Ireland,39,72,75,73,41,72
+John, O'Shea, CB,SUN, Republic of Ireland,34,36,55,33,78,58
+Wes, Brown, CB,SUN, England,36,53,58,30,77,55
+Rickie, Lambert, ST,WBA, England,33,47,67,81,34,71
+Gareth, McAuley, CB,WBA, Northern Ireland,36,42,42,43,78,50
+Heurelho, Silva Gomes, GK,WAT, Brazil,34,81,81,67,50,62
+Peter, Odemwingie, RM,STK, Nigeria,34,76,77,77,37,69
+Darren, Fletcher, CM,WBA, Scotland,32,54,68,68,81,74
+Wes, Hoolahan, CAM,MNOR, Republic of Ireland,33,65,77,68,45,74
+Jason, Puncheon, CAM,CRY, England,29,78,78,75,36,75
+Charlie, Adam, CM,STK, Scotland,30,50,72,78,60,81
+Yoan, Gouffran, LM,NEW, France,29,76,77,74,50,71
+Sylvain, Marveaux, CAM,NEW, France,29,70,79,73,52,79
+Leon, Osman, LM,EVE, England,34,62,81,73,64,78
+José Manuel, Jurado Marín, LM,WAT, Spain,29,73,80,77,28,76
+Glenn, Whelan, CDM,STK, Republic of Ireland,32,44,69,66,72,73
+Sébastien, Pocognoli, LB,WBA, Belgium,28,77,73,59,73,68
+Kasper, Schmeichel, GK,LEI, Denmark,29,79,81,71,40,85
+John, Ruddy, GK,MNOR, England,29,77,80,69,38,74
+Alessandro, Diamanti, CF,WAT, Italy,32,67,80,71,32,78
+Cameron, Jerome, ST,MNOR, England,29,86,70,75,44,68
+Stephen, Ireland, CAM,STK, Republic of Ireland,29,62,78,67,46,73
+Sébastien, Bassong, CB,MNOR, Cameroon,29,69,44,35,76,49
+José Luis, Sanmartín Mato, ST,STK, Spain,25,66,73,75,26,60
+Craig, Gardner, CM,WBA, England,29,54,72,75,71,73
+Bakary, Sako, LM,CRY, Mali,27,85,76,76,41,74
+Troy, Deeney, ST,WAT, England,27,72,68,78,27,57
+Yohan, Benalouane, CB,LEI, Tunisia,28,67,55,39,77,60
+Cheikhou, Kouyaté, CDM,WHU, Senegal,26,76,67,62,77,59
+Ashley, Westwood, CM,AVL, England,25,67,68,52,64,81
+Alex, McCarthy, GK,CRY, England,26,79,81,73,58,61
+Éder, Macedo Lopes, ST,SWA, Portugal,28,77,74,74,44,68
+Ryan, Mason, CM,TOT, England,24,68,72,67,68,75
+Marc, Muniesa Martínez, CB,STK, Spain,23,69,66,43,76,66
+Idrissa, Gueye, CM,AVL, Senegal,26,70,75,60,77,68
+Jack, Colback, CDM,NEW, England,26,68,72,59,72,69
+Andros, Townsend, RM,TOT, England,24,89,80,72,32,70
+Danny, Ings, ST,LIV, England,23,86,78,74,35,63
+Jordi, Amat Maas, CB,SWA, Spain,23,64,57,48,76,53
+Marco, van Ginkel, CM,STK, Holland,23,75,74,71,62,74
+Steven, Berghuis, RW,WAT, Holland,24,75,78,76,38,71
+Muhamed, Bešić, CDM,EVE, Bosnia and Herzegovina,23,73,74,50,76,64
+Emre, Can, CDM,LIV, Germany,22,75,75,64,72,74
+Nabil, Bentaleb, CM,TOT, Algeria,21,63,75,65,67,73
+Jordan, Amavi, LB,AVL, France,21,78,74,69,74,68
+Ola, Toivonen, ST,SUN, Sweden,29,60,71,80,41,72
+Gerhard, Tremmel, GK,SWA, Germany,37,74,77,72,42,62
+Marouane, Chamakh, CAM,CRY, Morocco,32,67,72,76,50,72
+Steve, Sidwell, CDM,STK, England,33,58,69,70,72,72
+Christian, Fuchs, LWB,LEI, Austria,29,67,68,69,70,78
+Alexander, Tettey, CM,MNOR, Norway,29,74,71,69,75,71
+Damien, Delaney, CB,CRY, Republic of Ireland,34,48,38,42,76,52
+James, Morrison, CM,WBA, Scotland,29,69,77,75,58,76
+Sebastian, Larsson, CM,SUN, Sweden,30,57,74,76,62,80
+Charles, N'Zogbia, CAM,AVL, France,29,78,80,70,46,72
+Joe, Ledley, CM,CRY, Wales,29,70,71,66,70,73
+Marc, Wilson, CB,STK, Republic of Ireland,28,67,65,57,76,67
+Morgan, Amalfitano, RM,WHU, France,30,69,77,69,55,76
+Scott, Sinclair, LM,AVL, England,26,88,80,72,33,66
+Liam, Bridcutt, CDM,SUN, Scotland,26,68,73,46,72,68
+Graham, Dorrans, CM,MNOR, Scotland,28,67,75,70,60,76
+Neil, Taylor, LB,SWA, Wales,26,72,73,41,75,68
+Erik, Pieters, LB,STK, Holland,27,65,65,40,76,67
+Vito, Mannone, GK,SUN, Italy,27,75,78,73,59,71
+Gary, Hooper, ST,MNOR, England,28,75,72,74,27,64
+Jonny, Howson, CM,MNOR, England,27,68,72,71,57,72
+Vurnon, Anita, CDM,NEW, Holland,26,76,77,54,69,68
+Martin, Kelly, RB,CRY, England,25,69,63,45,77,62
+Patrick, van Aanholt, LB,SUN, Holland,25,88,74,61,71,65
+Matt, Ritchie, RM,BOU, Scotland,26,77,75,71,52,71
+Kyle, Naughton, RB,SWA, England,27,75,67,52,74,65
+Libor, Kozák, ST,AVL, Czech Republic,26,57,62,73,31,48
+Miguel Angel, Britos, CB,WAT, Uruguay,30,55,52,34,77,50
+Diafra, Sakho, ST,WHU, Senegal,26,76,69,73,31,57
+Adam, Matthews, RB,SUN, Wales,24,78,71,53,74,70
+Joel, Robles Blázquez, GK,EVE, Spain,25,76,75,74,49,75
+Callum, Wilson, ST,BOU, England,23,91,74,73,29,60
+James, McClean, LM,WBA, Republic of Ireland,26,82,76,67,58,69
+Cristian, Gamboa, RB,WBA, Costa Rica,26,88,72,54,70,66
+Nathan, Redmond, RM,MNOR, England,21,86,79,67,24,69
+Pedro Mba, Obiang Avomo, CM,WHU, Spain,23,68,72,59,73,74
+Carl, Jenkinson, RB,WHU, England,23,78,67,50,74,67
+Eric, Dier, CB,TOT, England,22,64,59,59,74,69
+Bruno, Zuculini, CM,MCI, Argentina,22,80,73,70,74,66
+Florin, Gardoş, CB,SOU, Romania,27,55,60,48,75,56
+Tiago, Almeida Ilori, CB,LIV, Portugal,22,66,58,38,78,49
+James, Ward-Prowse, CAM,SOU, England,21,69,75,61,61,83
+Bertrand, Traoré, ST,CHE, Burkina Faso,20,85,78,75,32,72
+Carles, Gil d. Vicent, RM,AVL, Spain,23,68,81,65,39,74
+Essaïd, Belkalem, CB,WAT, Algeria,27,54,46,35,76,46
+Jonathan, Walters, RM,STK, Republic of Ireland,32,69,75,76,60,70
+Matt, Jarvis, LM,MNOR, England,29,84,79,63,39,70
+Charlie, Daniels, LB,BOU, England,29,79,70,60,75,70
+Nikica, Jelavić, ST,WHU, Croatia,30,67,70,75,22,57
+Harry, Arter, CM,BOU, Republic of Ireland,26,70,76,76,64,74
+Odion, Ighalo, ST,WAT, Nigeria,26,73,72,77,40,60
+Michail, Antonio, LM,WHU, England,25,92,77,72,38,65
+Adam, Smith, RB,BOU, England,24,77,72,60,74,70
+Rudy, Gestede, ST,AVL, Benin,27,72,65,73,34,50
+Aaron, Cresswell, LB,WHU, England,26,78,70,56,72,70
+Callum, McManaman, RW,WBA, England,24,77,79,65,25,63
+Connor, Wickham, ST,CRY, England,22,74,72,74,27,61
+Maya, Yoshida, CB,SOU, Japan,27,66,62,41,76,48
+Leandro, Bacuna, RB,AVL, Holland,24,78,73,71,69,73
+Oriol, Romeu Vidal, CDM,SOU, Spain,24,60,61,38,72,64
+Ayoze, Pérez Gutiérrez, ST,NEW, Spain,22,78,80,72,23,61
+Andrej, Kramarić, ST,LEI, Croatia,24,73,79,75,24,62
+Mark, Schwarzer, GK,LEI, Australia,43,70,71,73,50,67
+Brede, Hangeland, CB,CRY, Norway,34,31,41,41,75,48
+Chris, Brunt, LM,WBA, Northern Ireland,31,61,74,72,54,79
+Wes, Morgan, CB,LEI, Jamaica,32,52,56,30,73,41
+Almen, Abdi, CAM,WAT, Switzerland,29,68,74,67,55,73
+Kieran, Richardson, LM,AVL, England,31,77,76,72,71,73
+Alan, Hutton, RB,AVL, Scotland,31,68,67,48,75,63
+Chung-Yong, Lee, RM,CRY, Korea Republic,27,76,75,63,51,71
+Russell, Martin, CB,MNOR, Scotland,30,66,60,56,75,60
+Gabriel, Agbonlahor, CF,AVL, England,29,90,74,74,38,66
+Adam, Federici, GK,BOU, Australia,31,75,75,69,47,82
+Leonardo, Ulloa, ST,LEI, Argentina,29,61,67,72,42,60
+Victor, Anichebe, ST,WBA, Nigeria,27,72,70,72,46,63
+Wayne, Hennessey, GK,CRY, Wales,29,72,72,74,50,82
+James, Tomkins, CB,WHU, England,26,60,50,33,76,51
+Ádám, Bogdán, GK,LIV, Hungary,28,77,78,71,52,66
+James, Chester, CB,WBA, Wales,27,73,62,34,73,58
+Danny, Drinkwater, CM,LEI, England,25,68,70,65,63,69
+Emmanuel, Rivière, ST,NEW, France,25,76,70,72,36,61
+Kristoffer, Nordfeldt, GK,SWA, Sweden,26,73,78,66,55,66
+Steve, Cook, CB,BOU, England,24,63,60,24,72,50
+Sebastián, Coates, CB,SUN, Uruguay,25,58,46,35,76,33
+Valentin, Roberge, CB,SUN, France,28,62,59,35,72,52
+Massadio, Haïdara, LB,NEW, France,23,76,71,50,72,62
+Jon, Flanagan, LB,LIV, England,23,73,69,39,74,59
+Calum, Chambers, RB,ARS, England,21,66,71,51,74,66
+Jack, Grealish, LM,AVL, Republic of Ireland,20,78,77,56,29,71
+Rob, Elliot, GK,NEW, Republic of Ireland,29,74,76,70,47,68
+Glenn, Murray, ST,BOU, England,32,59,66,74,35,59
+Dele, Alli, LM,TOT, England,19,69,70,70,57,65
+Philippe, Senderos, CB,AVL, Switzerland,30,42,40,37,73,45
+Tony, Hibbert, RB,EVE, England,34,54,42,20,79,55
+Boaz, Myhill, GK,WBA, Wales,33,75,78,71,41,69
+Billy, Jones, RB,SUN, England,28,69,71,55,72,62
+Marcin, Wasilewski, CB,LEI, Poland,35,44,41,56,72,56
+Phil, Bardsley, RB,STK, Scotland,30,67,64,58,74,56
+Danny, Simpson, RB,LEI, England,29,73,68,38,72,63
+Darren, Randolph, GK,WHU, Republic of Ireland,28,75,75,70,41,75
+Andrew, Surman, CM,BOU, England,29,63,70,63,62,75
+Ritchie, De Laet, RB,LEI, Belgium,27,86,67,44,72,58
+Steven, Whittaker, RB,MNOR, Scotland,31,69,67,64,71,67
+Simon, Francis, RB,BOU, England,30,70,66,43,72,66
+Kelvin, Davis, GK,SOU, England,39,74,75,68,51,55
+Ben, Watson, CM,WAT, England,30,58,70,67,65,71
+Mark, Bunn, GK,AVL, England,31,74,76,68,48,71
+Danny, Graham, ST,SUN, England,30,53,69,73,36,62
+Marc, Pugh, LM,BOU, England,28,77,74,67,39,66
+Joey, O'Brien, RB,WHU, Republic of Ireland,29,60,65,47,75,63
+Fraizer, Campbell, ST,CRY, England,28,82,71,70,34,59
+Jordi, Gómez García-Penche, CM,SUN, Spain,30,55,74,72,48,75
+Adrian, Mariappa, RB,CRY, Jamaica,29,73,63,34,74,57
+Craig, Cathcart, CB,WAT, Northern Ireland,27,66,53,30,73,54
+Marc, Albrighton, RM,LEI, England,26,77,76,68,29,69
+Ryan, Bennett, CB,MNOR, England,25,59,39,25,73,43
+Dan, Gosling, CM,BOU, England,26,65,68,68,67,70
+Jordon, Mutch, CM,CRY, England,24,75,72,70,66,71
+Joel, Ekstrand, CB,WAT, Sweden,27,49,50,32,73,53
+Bryan, Oviedo, LB,EVE, Costa Rica,25,76,75,61,69,67
+Andre, Wisdom, RB,MNOR, England,22,71,59,30,76,61
+Tom, Carroll, CM,TOT, England,23,68,70,58,52,73
+Alex, Pritchard, CAM,TOT, England,22,73,74,67,42,70
+Dwight, Gayle, ST,CRY, England,25,85,71,72,25,53
+Juan Carlos, Paredes, RWB,WAT, Ecuador,28,84,72,47,68,61
+Adama, Traoré Diarra, RW,AVL, Spain,20,90,74,61,24,60
+Rolando, Aarons, LM,NEW, England,20,86,78,62,32,65
+Jordon, Ibe, LW,LIV, England,20,84,75,63,48,60
+Serge, Gnabry, RM,WBA, Germany,20,84,75,60,43,65
+Patrick, Bamford, ST,CRY, England,22,75,70,69,34,60
+Tyrone, Mings, LB,BOU, England,22,78,67,36,69,59
+Kyle, Lafferty, ST,MNOR, Northern Ireland,28,67,66,69,33,59
+José Ángel, Crespo Rincón, CB,AVL, Spain,28,67,65,39,70,64
+Giedrius, Arlauskis, GK,WAT, Lithuania,28,70,77,64,33,70
+Juan Miguel, Jimenez López, CAM,SOU, Spain,22,76,75,66,30,56
+Andy, King, CM,LEI, Wales,27,67,69,72,60,68
+Yann, Kermorgant, ST,BOU, France,34,52,61,72,33,63
+Lewis, Grabban, ST,MNOR, Jamaica,28,81,68,70,27,56
+Gabriel, Obertan, RM,NEW, France,26,84,73,61,34,62
+Joshua, King, LM,BOU, Norway,24,91,73,65,29,61
+Matty, James, CM,LEI, England,24,68,69,60,65,69
+Kyle, Bartley, CB,SWA, England,24,65,40,27,68,47
+Charis, Mavrias, RM,SUN, Greece,21,79,73,63,32,67
+Nick, Powell, CAM,MUN, England,21,72,69,69,37,63
+Tommie, Hoban, CB,WAT, Republic of Ireland,22,53,52,37,73,54
+Paul, Dummett, LB,NEW, Wales,24,68,67,40,71,61
+Cuco, Martina, RB,SOU, Curaçao,26,73,63,53,73,57
+Jesse, Lingard, CAM,MUN, England,23,76,70,62,32,65
+Nathan, Aké, LB,WAT, Holland,20,76,66,49,69,64
+Clinton, N'Jié, ST,TOT, Cameroon,22,93,74,68,30,65
+Gary, O'Neil, CM,MNOR, England,32,57,70,65,58,68
+Lloyd, Doyley, CB,WAT, Jamaica,33,68,55,32,69,51
+Dean, Hammond, CM,LEI, England,32,52,65,59,62,65
+Patrick, McCarthy, CB,CRY, Republic of Ireland,32,43,46,40,68,48
+Lee, Tomlin, CAM,BOU, England,27,74,71,72,34,64
+Marvin, Emnes, ST,SWA, Holland,27,82,71,66,38,65
+Joe, Bennett, LB,AVL, England,25,72,65,41,69,61
+Karl, Darlow, GK,NEW, England,25,69,74,68,59,62
+Eunan, O'Kane, CM,BOU, Republic of Ireland,25,74,70,52,61,67
+Jeffrey, Schlupp, LWB,LEI, Ghana,23,86,73,59,65,60
+Jamaal, Lascelles, CB,NEW, England,22,64,53,27,69,46
+Adlène, Guédioura, CM,WAT, Algeria,30,71,69,69,63,66
+Obbi, Oulare, ST,WAT, Belgium,20,74,61,65,27,56
+Declan, Rudd, GK,MNOR, England,25,72,70,66,54,65
+Doneil, Henry, CB,WHU, Canada,22,70,50,46,65,50
+Harrison, Reed, CDM,SOU, England,21,68,65,51,62,66
+João Carlos, Vilaça Teixeira, CAM,LIV, Portugal,23,72,71,63,33,65
+Kelechi, Iheanacho, ST,MCI, Nigeria,19,85,68,68,20,55
+Ikechi, Anya, LWB,WAT, Scotland,28,90,72,61,57,63
+Shaun, MacDonald, CM,BOU, Wales,27,62,66,58,63,64
+Junior, Stanislas, LM,BOU, England,26,79,68,62,32,63
+Craig, Dawson, RB,WBA, England,25,67,53,43,73,47
+Tyias, Browning, CB,EVE, England,21,73,53,34,67,46
+Lloyd, Isgrove, RM,SOU, Wales,23,87,69,51,33,58
+Tokelo, Rantie, ST,BOU, South Africa,25,91,74,63,24,56
+Andreas, Pereira, CAM,MUN, Brazil,20,64,71,58,33,68
+Lloyd, Dyer, LM,WAT, England,33,89,68,51,32,60
+James, Wilson, ST,MUN, England,20,80,65,65,24,53
+Matt, Targett, LB,SOU, England,20,78,64,37,65,56
+Gary, Gardner, CDM,AVL, England,23,55,65,70,58,72
+Kwesi, Appiah, ST,CRY, Ghana,25,90,62,62,40,51
+Gael, Bigirimana, CM,NEW, England,22,71,68,53,57,67
+Robbie, Brady, LWB,MNOR, Republic of Ireland,24,79,75,64,51,69
+Paulo, Gazzaniga, GK,SOU, Argentina,24,69,72,59,56,84
+Harry, Toffolo, LB,MNOR, England,20,76,65,44,62,61
+Ezekiel, Fryers, LB,CRY, England,23,74,65,37,64,56
+Brendan, Galloway, LB,EVE, England,19,78,57,37,64,54
+Paddy, McNair, CB,MUN, Northern Ireland,20,56,59,39,68,52
+Patrick, Roberts, RM,MCI, England,19,73,75,56,23,62
+Modou, Barrow, RW,SWA, Gambia,23,81,71,57,36,53
+Louis, Thompson, CM,MNOR, Wales,21,69,65,52,59,62
+Brandon, Barker, LM,MCI, England,19,87,67,61,31,57
+Josh, Onomah, CAM,TOT, England,18,76,70,52,23,58
+Joe, Gomez, CB,LIV, England,18,77,57,30,66,49
+Kasey, Palmer, CAM,CHE, England,19,74,70,54,45,63
+Richard, Wright, GK,MCI, England,38,68,62,62,33,66
+Ryan, Allsop, GK,BOU, England,23,64,67,58,42,65
+Curtis, Good, CB,NEW, Australia,22,58,48,35,64,52
+Sam, Johnstone, GK,MUN, England,22,69,72,56,33,53
+Ruben, Loftus-Cheek, CM,CHE, England,20,70,60,44,62,58
+Matthew, Pennington, CB,EVE, England,21,58,48,33,64,41
+Michael, Cain, CM,LEI, England,21,68,66,58,48,62
+Guillermo, Varela, RB,MUN, Uruguay,22,68,62,33,66,45
+Jay, Fulton, CM,SWA, Scotland,21,68,65,54,50,63
+Jindřich, Staněk, GK,EVE, Czech Republic,19,58,66,66,42,69
+Lynden, Gooch, CAM,SUN, United States,20,78,66,55,35,61
+Dennon, Lewis, LW,WAT, England,18,77,67,66,30,53
+Jake, Kean, GK,MNOR, England,25,63,66,55,50,46
+Benjamin, Siegrist, GK,AVL, Switzerland,24,66,56,64,40,70
+Adil, Nabi, ST,WBA, England,21,66,68,60,27,56
+John, Swift, CM,CHE, England,20,63,62,59,49,60
+Matthew, Grimes, CM,SWA, England,20,64,62,56,38,67
+Ryan, Seager, ST,SOU, England,20,69,60,64,24,51
+Baily, Cargill, CB,BOU, England,20,66,57,29,62,43
+Robert Kenedy, Nunes do Nascimento, ST,CHE, Brazil,19,70,61,65,22,47
+Duncan, Watmore, RW,SUN, England,21,78,65,62,30,52
+Thierry, Ambrose, ST,MCI, France,18,83,62,59,21,47
+Jake, Hesketh, CAM,SOU, England,19,69,66,47,46,65
+Dionatan, Teixeira, CB,STK, Slovakia,23,54,37,32,66,36
+Oliver, Shenton, CM,STK, England,18,60,66,54,50,63
+Callum, Roberts, CF,NEW, England,19,68,69,62,21,56
+Jeff, Reine-Adelaïde, CAM,ARS, France,18,79,66,48,44,57
+Conor, McAleny, ST,EVE, England,23,69,64,65,23,58
+Jamar, Loza, ST,MNOR, Jamaica,21,80,66,56,25,47
+Jakob, Haugaard, GK,STK, Denmark,23,63,64,56,47,57
+George, Evans, CM,MCI, England,21,62,58,50,54,60
+Jake, Flannigan, CM,SOU, England,20,65,66,55,47,64
+Jordan, Rossiter, CM,LIV, England,18,63,58,47,58,60
+Ryan, Ledson, CM,EVE, England,18,61,62,48,54,61
+Stephen, Hendrie, LB,WHU, Scotland,21,68,59,31,62,42
+Mohamed, El Ouriachi, LW,STK, Morocco,20,78,65,57,27,55
+Manuel, García Alonso, CAM,MCI, Spain,18,69,66,55,31,57
+Krystian, Bielik, CDM,ARS, Poland,18,56,63,43,56,60
+Mason, Holgate, RB,EVE, England,19,71,61,42,62,50
+André, Green, LM,AVL, England,17,79,63,56,35,57
+Ben, Chilwell, LB,LEI, England,19,80,63,32,63,47
+Daniel, Bachmann, GK,STK, Austria,21,60,65,58,50,54
+Charly, Musonda, CAM,CHE, Belgium,19,62,66,52,17,57
+Mikael, Mandron, ST,SUN, Scotland,21,64,56,61,20,38
+Dominic, Gape, CM,SOU, England,21,53,59,46,60,60
+Ivan, Toney, ST,NEW, England,19,79,62,53,40,42
+Jack, Barmby, CAM,LEI, England,21,68,64,60,26,54
+Joe, Dodoo, ST,LEI, England,20,83,62,58,19,40
+Cameron, Brannagan, CAM,LIV, England,19,68,61,46,44,62
+Martin, Samuelsen, RM,WHU, Norway,18,72,70,45,25,52
+Jerell, Sellars, LM,AVL, England,20,69,63,63,31,56
+Ola, Aina, RB,CHE, England,19,75,59,35,60,46
+Raphael, Spiegel, GK,WHU, Switzerland,23,59,63,58,56,57
+Jamal, Blackman, GK,CHE, England,22,67,66,49,45,60
+Raheem, Hanley, LB,SWA, England,21,62,53,35,61,43
+Elliot, Lee, ST,WHU, England,21,68,57,61,19,39
+Leo, Chambers, CB,WHU, England,20,73,48,28,60,45
+Callam, Jones, CB,WBA, England,20,42,38,33,61,35
+Sam, McQueen, LM,SOU, England,21,61,65,56,24,58
+Jason, McCarthy, CB,SOU, England,20,53,41,30,61,34
+Milos, Veljkovic, CB,TOT, Serbia,20,56,41,27,62,41
+Jack, Rose, GK,WBA, England,21,66,62,54,41,53
+Samir, Nabi, CM,WBA, England,19,61,66,55,43,61
+Tafari, Moore, RB,ARS, England,18,69,60,32,60,42
+Thomas, Robson, LB,SUN, England,20,63,58,34,57,49
+Daniel, Alfei, RB,SWA, Wales,23,62,53,36,59,54
+Mathias, Bossaerts, CB,MCI, Belgium,19,57,52,31,56,44
+Kenneth, McEvoy, LM,TOT, Republic of Ireland,21,87,65,49,21,48
+George, Honeyman, CAM,SUN, England,21,69,61,51,45,58
+Martin, Smith, CM,SUN, England,20,65,61,56,53,60
+Filippo, Costa, LB,BOU, Italy,20,67,55,28,60,42
+Harry, Winks, CM,TOT, England,20,75,65,51,44,61
+Liam, Agnew, CM,SUN, England,20,58,59,52,51,61
+Julio José, Pleguezuelo Selva, RB,ARS, Spain,19,68,59,35,58,44
+Luke, McGee, GK,TOT, England,20,67,65,51,46,56
+Lewis, Page, LB,WHU, England,19,56,57,36,62,41
+Rene, Gilmartin, GK,WAT, Republic of Ireland,28,67,61,51,52,54
+Josh, Sheehan, CM,SWA, Wales,20,56,56,45,50,56
+Bersant, Celina, CAM,MCI, Kosovo,19,68,60,58,19,48
+Ryan, Huddart, GK,ARS, England,18,63,60,55,39,55
+Conor, McGrandles, CM,MNOR, Scotland,20,68,66,55,42,55
+Josh, Cullen, CM,WHU, Republic of Ireland,19,68,63,47,53,55
+Hamza, Choudhury, CM,LEI, England,18,72,60,44,62,56
+Kyle, Knoyle, RB,WHU, England,19,75,57,24,56,44
+Reise, Allassani, LM,CRY, England,20,75,61,47,32,49
+Alex, Jakubiak, ST,WAT, Scotland,19,75,62,55,23,45
+William, Miller, CAM,TOT, England,19,66,59,45,50,57
+Kyle, Bailey, ST,LEI, England,19,63,53,56,24,46
+Alex, Iwobi, CF,ARS, England,19,77,62,49,19,42
+Alex, Kiwomya, RM,CHE, England,19,93,56,52,20,40
+Alie, Sesay, CB,LEI, Sierra Leone,22,64,39,25,58,35
+Brandon, Fox, ST,LEI, England,19,65,62,53,23,50
+Lubomir, Satka, CB,NEW, Slovakia,20,53,39,25,54,32
+Ben, Killip, GK,MNOR, England,20,55,57,52,42,54
+Alex, Palmer, GK,WBA, England,19,62,57,49,26,58
+Emmanuel, Sonupe, RM,TOT, England,19,61,55,46,53,51
+Stefan, O'Connor, CB,ARS, England,19,57,41,30,55,39
+Regan, Poole, CB,MUN, Wales,17,68,40,24,53,33
+Jaanai, Gordon, ST,WHU, England,20,77,58,52,18,43
+Matt, Macey, GK,ARS, England,21,53,53,49,38,46
+Glen, Kamara, CM,ARS, Finland,20,58,54,40,36,50
+Lewis, Kinsella, LB,AVL, England,21,58,49,33,52,39
+Ρομπερτο,, GK, Olympiakos CFP, Spain,29,83,86,71,45,73
+Εστεμπαν,Καμπιασο, CM, Olympiakos CFP, Argentina,35,55,73,73,77,76
+Μαρκους,Μπεργκ, ST, Panathinaikos FC, Sweden,29,73,75,79,29,64
+Φελιπε,Παρντο, RW, Olympiakos CFP, Colombia,25,86,79,76,26,69
+Αλεχαντρο,Ντομινγκες, CAM, Olympiakos CFP, Argentina,34,72,80,77,33,75
+Σερχιο,Σαντσεθ, CB, Panathinaikos FC, Spain,29,67,56,52,80,62
+Ρικαρντο,Κοστα, CB, PAOK, Portugal,34,54,53,38,77,45
+Μιγκελ,Βιτορ, CB, PAOK, Portugal,26,67,53,36,78,56
+Δημητρης,Σιοβας, CB, Olympiakos CFP, Greece,27,47,61,38,79,51
+Ερνάνι Ζόρζε,Σάντος Φόρτες, RW, Olympiakos CFP, Portugal,24,90,81,65,22,70
+Ζέκα Χοσέ Κάρλος,Γκονσάλβες Ροντρίγκες, CM, Panathinaikos FC, Portugal,27,76,74,64,66,74
+Μανουέλ,ΝΤΑ Κόστα, CB, Olympiakos CFP, Morocco,29,67,56,49,75,50
+Στεφανος,Αθανασιαδης, ST, PAOK, Greece,27,76,72,75,44,66
+Λεαντρο,Σαλινο, RB, Olympiakos CFP, Brazil,30,81,74,62,73,70
+Αλφρεντ,Φινμπογκασον, ST, Olympiakos CFP, Iceland,27,69,73,80,31,62
+Παιτιμ,Κασαμι, CM, Olympiakos CFP, Switzerland,23,65,74,69,60,73
+Σεμπα,, RW, Olympiakos CFP, Brazil,23,87,76,74,32,66
+Γιαννης,Μανιατης, CDM, Olympiakos CFP, Greece,29,76,71,63,75,71
+Φουκά Αρτούρ,Μαζουακού , LB, Olympiakos CFP, France,22,84,77,70,72,70
+Μλαντεν,Πετριτς, ST, Panathinaikos FC, Croatia,35,65,70,76,31,70
+Σταθης,Ταυλαριδης, CB, Panathinaikos FC, Greece,36,61,53,40,76,49
+Ντανιελ,Πρανιτς, LM, Panathinaikos FC, Croatia,34,73,75,70,66,76
+Σωτηρης,Νινης, CAM, Panathinaikos FC, Greece,25,75,79,66,26,73
+Αλμπέρτο Τομάς,Μποτία Ραμπάσκο, CB, Olympiakos CFP, Spain,27,59,59,55,74,59
+Ρομπερτ,Μακ, RM, PAOK, Slovakia,24,83,77,70,32,68
+Μπραουν,Ιντεγε, ST, Olympiakos CFP, Nigeria,27,77,71,74,39,60
+Κωνσταντινος,Φορτουνης, CAM, Olympiakos CFP, Greece,23,76,80,75,40,76
+Στεφανος,Καπινο, GK, Olympiakos CFP, Greece,21,77,78,68,24,66
+Λουκα,Μιλιβογεβιτς, CDM, Olympiakos CFP, Serbia,24,58,66,62,69,68
+Λουκ,Στιλ, GK, Panathinaikos FC, England,31,77,79,66,55,63
+Μαικλ,Εσιεν, CDM, Panathinaikos FC, Ghana,33,55,68,66,70,71
+Μαριάνο,Γκονθάλεθ Μαρότο, LB, Panathinaikos FC, Spain,31,86,70,60,71,72
+Παναγιωτης,Γλυκος, GK, PAOK, Greece,29,76,78,69,41,67
+Ομαρ,Ελαμπντελαουι, RB, Olympiakos CFP, Norway,24,83,75,53,69,69
+Γιωργος,Τζαβελλας, CB, PAOK, Greece,28,68,63,62,72,66
+Βικτωρ,Κλωναριδης, LM, Panathinaikos FC, Greece,23,86,74,71,47,65
+Γιαννης,Σκονδρας, RB, PAOK, Greece,25,71,67,51,73,60
+Νικος,Καρελης, LW, Panathinaikos FC, Greece,23,79,74,73,31,64
+Αλεξαντρος,Τζιολης, CDM, PAOK, Greece,30,54,60,67,70,69
+Νταβίδ,Φουστέρ, CAM, Olympiakos CFP, Spain,34,71,68,72,61,70
+Στυλιανος,Μαλεζας, CB, PAOK, Greece,30,54,51,33,74,47
+Γενς,Βεμερ, RB, Panathinaikos FC, Germany,30,78,65,54,70,65
+Εργκους,Κατσε, CM, PAOK, Albania,22,73,71,65,66,68
+Ρομπιν Πατρικ,Πλσεν, GK, PAOK, Sweden,26,65,75,71,28,70
+Αμπντουλ,Ατζαγκουν, CAM, Panathinaikos FC, Nigeria,22,84,74,69,20,62
+Τζιμι,Ντουρμαζ, LM, Olympiakos CFP, Sweden,26,83,75,68,28,69
+Αλαν,Πουλιδο, ST, Olympiakos CFP, Mexico,24,84,74,68,36,60
+Μεχντι,Αμπεντ, CM, Panathinaikos FC, Algeria,23,70,71,66,57,66
+Ανδρεας,Μπουχαλακης, CM, Olympiakos CFP, Greece,22,66,65,67,61,69
+Στεφανος,Κοτσολης, GK, Panathinaikos FC, Greece,36,66,71,71,27,67
+Μαριν,Λεοβατς, LB, PAOK, Croatia,27,80,68,46,64,63
+Εγιαλ,Γκολασα, CAM, PAOK, Israel,24,74,71,55,33,69
+Γιαννης,Γιαννιωτας, RM, Olympiakos CFP, Greece,22,79,72,61,26,65
+Δημητρης,Πελκας, CAM, PAOK, Greece,22,80,73,64,26,65
+Διαμαντης,Χουχουμης, LB, Panathinaikos FC, Greece,21,79,67,57,65,66
+Γιωργος,Κουτρουμπης, CB, Panathinaikos FC, Greece,24,52,36,37,70,40
+Νικος,Μαρινακης, RB, Panathinaikos FC, Greece,22,78,63,48,64,60
+Σασα,Ζντιελαρ, CDM, Olympiakos CFP, Serbia,20,65,65,54,63,61
+Τερρυ,Αντωνης, CM, PAOK, Australia,22,67,67,60,57,66
+Χρηστος,Δωνης, CM, Panathinaikos FC, Greece,21,71,66,60,59,65
+Πραξιτελης,Βουρος, CB, Olympiakos CFP, Greece,20,69,41,34,67,48
+Ρομπιν,Λουντ, CAM, Panathinaikos FC, Finland,22,65,65,64,37,57
